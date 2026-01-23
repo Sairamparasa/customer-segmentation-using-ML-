@@ -121,7 +121,7 @@ Our analysis reveals:
 ### Engineered Features (4 additional columns)
 
 #### 🔧 Feature Engineering Process
-During data preprocessing, we created these derived features:
+During data preprocessing, we created these derived features :
 
 - **Age**: Calculated as (2026 - Year_Birth)
   - Range: 30-133 years, Average: 57.2 years
