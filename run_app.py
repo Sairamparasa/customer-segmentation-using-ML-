@@ -8,7 +8,7 @@ import sys
 import subprocess
 
 def main():
-    """Run the Streamlit application"""
+    """Run the Streamlit application """
     # Get the directory of this script
     script_dir = os.path.dirname(os.path.abspath(__file__))
     
