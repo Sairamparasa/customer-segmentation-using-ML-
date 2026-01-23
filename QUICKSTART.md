@@ -18,7 +18,7 @@ This will:
 ## Step 2: Run the App
 ```bash
 python run_app.py
-```
+```                     
 The app will automatically open in your browser at `http://localhost:8501`
 
 ## Step 3: Use the App
