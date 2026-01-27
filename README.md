@@ -136,7 +136,7 @@ During data preprocessing, we created these derived features :
   - Represents overall customer value
 
 - **Customer_Since**: Days since customer enrollment
-  - Calculated from Dt_Customer to present date
+  - Calculated from Dt_Customer to present date   
   - Shows customer tenure and loyalty
 
 ### Data Quality & Preprocessing
