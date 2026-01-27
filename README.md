@@ -56,7 +56,7 @@ Our analysis reveals:
 - **Records**: 2,240 customers (after cleaning: 2,216 customers)
 - **Features**: 29 original features + 4 engineered features
 - **Time Period**: Customer data from 2012-2014
-- **Data Quality**: 24 records with missing income values were removed (1.1% missing data)
+- **Data Quality**: 24 records with missing income values were removed (1.1% missing data)     
 
 ### Raw Data Features (29 columns)
 
