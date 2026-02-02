@@ -7,7 +7,7 @@ A complete customer segmentation solution using K-means clustering to identify d
 ```
 customer_segmentation/
 ├── data/                           # Data files
-│   └── customer_segmentation.csv   # Raw customer data (2,240 customers, 29 features)
+│   └── customer_segmentation.csv   # Raw customer data (2,240 customers, 29 features) 
 ├── notebooks/                      # Jupyter notebooks
 │   └── EDA.ipynb                  # Exploratory Data Analysis & Model Training
 ├── models/                         # Trained models
