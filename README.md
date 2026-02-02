@@ -81,6 +81,7 @@ Our analysis reveals:
   - Others: Alone, Absurd, YOLO (7 customers - 0.3%)
 - **Income**: Annual household income ($1,730 - $666,666, avg: $52,247)
 
+
 #### 👨‍👩‍👧‍👦 Family Composition
 - **Kidhome**: Number of children at home (0-2)
 - **Teenhome**: Number of teenagers at home (0-2)
